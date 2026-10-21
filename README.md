@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard that analyzes sales and profit for a retail superstore (2014-2017).
 
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## Key numbers
 - Total sales: $2,297,200
