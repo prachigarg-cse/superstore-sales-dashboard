@@ -3,6 +3,7 @@
 An interactive Excel dashboard that analyzes sales and profit for a retail superstore (2014-2017).
 
 ![Dashboard](dashboard.png.png)
+*Note: this screenshot has the Region slicer set to West, so the charts show West region data. The KPI cards show totals for all regions.*
 
 ## Key numbers
 - Total sales: $2,297,200
@@ -15,10 +16,10 @@ An interactive Excel dashboard that analyzes sales and profit for a retail super
 - Charts for sales by category, profit by category, sales by region, and monthly sales trend
 - Slicers for Segment, Region, and Category so the dashboard can be filtered interactively
 
-## Findings
-- Furniture and Technology bring in the most sales, but Furniture earns the least profit.
-- Office Supplies has the lowest sales but the highest profit.
-- Monthly sales move up and down through the year and trend upward from 2014 to 2017.
+## Findings (West region)
+- Furniture and Technology have the highest sales, and Office Supplies the lowest.
+- Office Supplies earns the most profit, and Furniture earns the least despite high sales.
+- Monthly sales rise and fall through the year, with an upward trend from 2014 to 2017.
 
 ## Tools used
 Microsoft Excel (pivot tables, pivot charts, slicers), data cleaning, data visualization
